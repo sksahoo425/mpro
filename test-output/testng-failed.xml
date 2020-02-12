@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Gen.com.mpro.all_Functionsers.all_Simple_Feature">
+        <methods>
+          <include name="Popup_Download"/>
+          <include name="beforeTest"/>
+          <include name="Quit"/>
+        </methods>
+      </class> <!-- Gen.com.mpro.all_Functionsers.all_Simple_Feature -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

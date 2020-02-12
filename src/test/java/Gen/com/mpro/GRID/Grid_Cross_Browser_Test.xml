@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+
+	<test name="GridTest1">
+		<parameters name="Browser" value="chrome">
+			<classes>
+				<class name="Gen.com.mpro.Grid_Cross_Browser_Test" />
+			</classes>
+		</parameters>
+	</test>
+	
+	
+	
+	
+	
+	
+	
+</suite> 

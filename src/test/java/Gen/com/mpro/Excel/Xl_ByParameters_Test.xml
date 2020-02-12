@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Xl_Para">
+		
+		<parameter name="FliePath" value="C:/Users/sksah/OneDrive/Desktop/Login.xlsx"></parameter>
+		<parameter name="SheetIndex" value="0"></parameter>
+		<parameter name="RowIndex" value="0"></parameter>
+		<parameter name="ColumIndexforID" value="0"></parameter>
+		<parameter name="ColumIndexforPWD" value="1"></parameter>
+		<classes>
+			<class name="Gen.com.mpro.Excel.Xl_ByParametersTest"></class>
+		</classes>
+   
+	</test> <!-- Xl_ByParametersTest -->
+</suite> <!-- Suite -->

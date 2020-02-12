@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<test name="Test">
+		<parameter name="FliePath"
+			value="C:/Users/sksah/OneDrive/Desktop/Login.xlsx"></parameter>
+		<parameter name="SheetIndex" value="0"></parameter>
+		<parameter name="RowIndex" value="0"></parameter>
+		<parameter name="ColumIndexforID" value="0"></parameter>
+		<parameter name="ColumIndexforPWD" value="1"></parameter>
+		<classes>
+			<class name="Gen.com.mpro.math.abd" />
+			<class name="Gen.com.mpro.Excel.Xl_ByParametersTest"></class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

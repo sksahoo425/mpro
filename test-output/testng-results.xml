@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35" started-at="2020-02-03T15:33:48Z" finished-at="2020-02-03T15:33:48Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="35" started-at="2020-02-03T15:33:48Z" finished-at="2020-02-03T15:33:48Z">
+      <class name="Gen.com.mpro.TestngDemo.A2">
+        <test-method status="PASS" signature="A2_m1()[pri:0, instance:Gen.com.mpro.TestngDemo.A2@d8355a8]" name="A2_m1" duration-ms="10" started-at="2020-02-03T15:33:48Z" finished-at="2020-02-03T15:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A2_m1 -->
+        <test-method status="PASS" signature="A2_m2()[pri:0, instance:Gen.com.mpro.TestngDemo.A2@d8355a8]" name="A2_m2" duration-ms="2" started-at="2020-02-03T15:33:48Z" finished-at="2020-02-03T15:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A2_m2 -->
+      </class> <!-- Gen.com.mpro.TestngDemo.A2 -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="35" started-at="2020-02-03T15:33:48Z" finished-at="2020-02-03T15:33:48Z">
+      <class name="Gen.com.mpro.TestngDemo.A1">
+        <test-method status="PASS" signature="A1_m1()[pri:0, instance:Gen.com.mpro.TestngDemo.A1@548e7350]" name="A1_m1" duration-ms="10" started-at="2020-02-03T15:33:48Z" finished-at="2020-02-03T15:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A1_m1 -->
+        <test-method status="PASS" signature="A1_m2()[pri:0, instance:Gen.com.mpro.TestngDemo.A1@548e7350]" name="A1_m2" duration-ms="1" started-at="2020-02-03T15:33:48Z" finished-at="2020-02-03T15:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A1_m2 -->
+      </class> <!-- Gen.com.mpro.TestngDemo.A1 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

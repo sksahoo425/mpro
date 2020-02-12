@@ -13,8 +13,8 @@ import org.testng.ITestResult;
 
 import Gen.com.mpro.TestBase.TestBase;
 
-public class Listener extends TestBase implements ITestListener {
-
+public class Listener extends TestBase  {
+/*
 	public void onTestStart(ITestResult result) {
 		// TODO Auto-generated method stub
 
@@ -63,6 +63,6 @@ public class Listener extends TestBase implements ITestListener {
 	public void onFinish(ITestContext context) {
 		// TODO Auto-generated method stub
 
-	}
+	}*/
 
 }
